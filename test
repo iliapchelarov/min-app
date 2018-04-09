@@ -1,0 +1,1 @@
+./vendor/bin/phpunit --bootstrap tests/_bootstrap.php tests/impsyde/nonce
