@@ -1,1 +1,1 @@
-./vendor/bin/phpunit --bootstrap tests/_bootstrap.php tests
+./vendor/bin/phpunit -c tests/phpunit.xml tests/inpsyde/nonce
