@@ -1,6 +1,6 @@
 {
-    "name": "impsyde/basic",
-    "description": "Minimal Template",
+    "name": "iliap/min",
+    "description": "Minimal Template for php development using YII",
     "keywords": ["project template"],
     "homepage": "https://github.com/ipchelarov/minimal",
     "type": "project",
@@ -42,7 +42,6 @@
             "setPermission": [
                 {
                     "runtime": "0777",
-                    "web/assets": "0777",
                     "yii": "0755"
                 }
             ]
